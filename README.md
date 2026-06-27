@@ -1,5 +1,7 @@
-# cookidea
+# Cookidea
+
 CookIdea
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9dd2d35b-8c78-4619-913f-1306a55e351f" />
 
 CookIdea is an AI-powered brainstorming workspace that transforms idea generation into a creative cooking experience.
 
@@ -48,5 +50,4 @@ CookIdea 建立在一个简单却直观的理念之上：
 🎮 基于现代 Web 技术打造的沉浸式 3D 创意工作空间
 
 CookIdea 希望让创新像做饭一样自然、有趣，让每个人都能把零散的灵感一步步烹饪成真正可以落地的创意。
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9dd2d35b-8c78-4619-913f-1306a55e351f" />
 
